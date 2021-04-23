@@ -1,6 +1,5 @@
-FROM ubuntu:18.04
+FROM alpine:latest
  
-#
 # Identify the maintainer of an image
 LABEL maintainer="sidheswar.ghosh@gmail.com"
  
